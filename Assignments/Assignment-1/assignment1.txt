@@ -1,0 +1,130 @@
+  ----CHAPTER 1: AN OVERVIEW OF THE INTERNET AND THE WEB----
+
+Group A
+
+1. Define the term “Protocol” in the context of the Internet.
+-> A protocol is a set of rules that devices follow to communicate with each other on the Internet. 
+It explains how data is sent, received, and understood between computers.
+
+
+2. What is the primary difference between a Web Browser and a Search Engine?
+-> A web browser is software used to open websites, while a search engine is a website that helps users find information 
+on the Internet.
+
+
+3. Define the World Wide Web (WWW).
+-> The World Wide Web is a collection of websites and web pages that we access through the Internet using a web browser.
+
+4. Distinguish between a static web page and a dynamic web page.
+-> A static web page shows the same content to all users and does not change frequently.
+A dynamic web page changes its content 
+based on user input or data from a server.
+
+
+Group B: Long Questions
+
+5. Explain the client-server architecture of the web with a neat diagram.
+-> Client-server architecture is a system where the client and server work together. The client is usually a user’s web browser, 
+and the server is the computer where the website is stored.
+
+When a user opens a website, the browser sends a request to the server. The server processes the request and sends the web page
+ back to the browser.
+
+Diagram:
++--------------------+                         +----------------------+
+|        CLIENT      |                         |        SERVER        |
+|  (Web Browser)     |                         |  (Web Server)        |
+|                    | ---- HTTP Request ----> |                      |
+|  • Chrome          |     (URL, Form Data,    |  • Stores Website    |
+|  • Firefox         |      Page Request)      |  • Processes Request |
+|  • Edge            |                         |  • Runs Backend Code |
+|                    | <--- HTTP Response ---- |                      |
+|  • Displays Page   |   (HTML, CSS, JS, Data) |  • Sends Web Page    |
++--------------------+                         +----------------------+
+
+
+
+6. Describe the functions of the following Internet services:
+
+Email:
+Email is used to send and receive messages through the Internet. It is fast, simple, and allows sending files and documents.
+
+FTP (File Transfer Protocol):
+FTP is used to upload and download files between a computer and a server. It is mainly used for managing website files.
+
+VoIP (Voice over Internet Protocol):
+VoIP allows people to make voice and video calls using the Internet instead of traditional phone lines.
+
+
+7. “The Internet is a network of networks.” Explain this statement and packet switching.
+-> The Internet connects many smaller networks around the world, which is why it is called a network of networks. Data sent over 
+the Internet is divided into small packets. These packets travel through different paths and are combined again at the destination.
+This process is called packet switching and it helps data move faster and safely.
+
+
+Group C: Scenario-Based Questions
+
+8. Startup website scenario
+-> I would not agree with using a dynamic website for this startup. A static website is a more suitable choice in this situation.
+In the given scenario, the website displays the same information to all users, such as company details, services, contact information,
+and basic product descriptions. There is no requirement for user login, database interaction, or personalized content, which are the
+main reasons for using a dynamic website.
+Static websites are simple to develop using basic technologies like HTML, CSS, and JavaScript. They do not require server-side
+scripting or database management, which reduces complexity. This makes static websites cheaper to host and maintain, which is very 
+important for a startup with a limited budget.
+Another major advantage is performance. Static websites load faster because pages are already stored on the server and delivered 
+directly to the user’s browser. Faster loading improves user experience and also helps in SEO (Search Engine Optimization).
+Maintenance is also very low. Since the content rarely changes, updates are not frequent. There are fewer security risks because 
+there is no database or server-side code to attack.
+Therefore, considering cost efficiency, speed, security, simplicity, and low maintenance, a static website is the best and most
+ practical solution for this startup.
+
+
+9. Google website error scenario
+-> The problem described in this scenario is related to the Domain Name System (DNS).
+
+DNS is a system that translates human-readable domain names (like www.google.com) into IP addresses (such as 142.250.182.14) that 
+computers use to identify each other on the internet.
+In this case, the website opens correctly when the IP address is used, but fails when the domain name is used. This clearly indicates 
+that the web server is working properly, but the DNS is unable to resolve the domain name into its corresponding IP address.
+
+Possible causes of this DNS issue include:
+
+- DNS server not responding
+
+- Incorrect DNS configuration
+
+- DNS cache problems on the user’s system
+
+- Domain name not properly registered or expired
+
+Because DNS resolution fails, the browser cannot locate the server using the website name, even though the server is active.
+Hence, the error is caused by a DNS failure, where the system is unable to convert the domain name into an IP address. Fixing DNS 
+settings or using a different DNS server can resolve the issue.
+
+
+10. Network type for sharing sensitive data
+-> The company should use an Extranet to share sensitive data securely with its suppliers.
+An Extranet is a private network that allows controlled access to authorized external users, such as suppliers, partners, 
+or vendors. It is an extension of a company’s Intranet, but access is restricted using authentication methods like usernames,
+passwords, and sometimes VPNs.
+In this scenario, the data is confidential and sensitive, so it should not be available to the general public. At the same time,
+it needs to be shared with selected suppliers. An Extranet is ideal because it ensures data security while enabling safe collaboration.
+
+Using an Extranet provides several benefits:
+
+- Only authorized suppliers can access the data
+
+- Data remains secure and protected
+
+- Better control over information sharing
+
+- Improved communication and coordination with suppliers
+
+Unlike the Internet, which is public, or an Intranet, which is limited to internal employees, an Extranet offers the perfect
+balance between accessibility and security.
+
+Therefore, for sharing sensitive company data with trusted suppliers, an Extranet is the most appropriate and secure network type.
+
+
+------End of Assignment 1-----
