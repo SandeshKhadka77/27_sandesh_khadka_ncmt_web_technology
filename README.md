@@ -27,7 +27,7 @@ This repository contains all assignments completed for the Web Technology course
 ## 🌐 Personal Portfolio
 
 You can view my personal portfolio project here:  
-🔗 **[Portfolio Repository](https://github.com/**proposed)**
+🔗 **[Portfolio Repository](https://github.com/SandeshKhadka77/Portfolio)
 
 
 ---
