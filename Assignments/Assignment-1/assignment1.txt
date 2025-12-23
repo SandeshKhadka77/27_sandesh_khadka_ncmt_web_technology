@@ -43,7 +43,6 @@ Diagram:
 +--------------------+                         +----------------------+
 
 
-
 6. Describe the functions of the following Internet services:
 
 Email:
