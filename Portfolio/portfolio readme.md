@@ -28,7 +28,6 @@ This repository does **not** contain the full source code of the portfolio.
 👉 **Main Portfolio Repository:**  
 [Click here to view my Portfolio Repository](https://github.com/SandeshKhadka77/Portfolio)
 
-> Replace the link above with your actual portfolio GitHub repository URL.
 
 ---
 
