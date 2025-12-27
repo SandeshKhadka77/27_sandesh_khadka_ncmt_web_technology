@@ -1,11 +1,12 @@
-                                 CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
-
+                                                             CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
+                                        
 
 
 Group A: Short Questions (2 Marks)
 1. Define the term “Sitemap” in the planning phase.
 
-A Sitemap is a visual or textual representation of all the pages of a website and their relationships. It helps in planning the website structure and navigation before development starts.
+A Sitemap is a visual or textual representation of all the pages of a website and their relationships.
+It helps in planning the website structure and navigation before development starts.
 
 2. What is the purpose of the “Launch” phase in web development?
 
@@ -13,15 +14,17 @@ The Launch phase is the stage where the completed website is deployed to a live 
 
 3. Why is “Documentation” important in the development lifecycle?
 
-Documentation is important because it provides clear information about the website’s design, functionality, and usage. It helps in maintenance, future updates, and understanding the system easily.
+Documentation is important because it provides clear information about the website’s design, functionality, and usage. It helps in maintenance, future updates,
+and understanding the system easily.
 
 4. Differentiate between Front-end and Back-end development.
-Front-end Development	Back-end Development
-Focuses on user interface	Focuses on server-side logic
-Uses HTML, CSS, JavaScript	Uses PHP, Python, Java, databases
-Runs in the browser	Runs on the server
-Concerned with user experience	Concerned with data processing
-
+| Front-end Development | Back-end Development |
+|----------------------|---------------------|
+| Focuses on the user interface (UI) | Focuses on server-side logic |
+| Deals with what users see and interact with | Deals with data, server, and application logic |
+| Uses HTML, CSS, and JavaScript | Uses PHP, Python, Java, and databases |
+| Runs in the web browser | Runs on the server |
+| Concerned with user experience (UX) | Concerned with data processing and storage |
 
 Group B: Long Questions (4 Marks)
 
@@ -51,15 +54,15 @@ The Maintenance phase is iterative because it continues after the website is lau
 
 Maintenance activities include:
 
-Updating content
+- Updating content
 
-Fixing bugs and errors
+- Fixing bugs and errors
 
-Improving performance
+- Improving performance
 
-Enhancing security
+- Enhancing security
 
-Adding new features
+- Adding new features
 
 A website is never truly “finished” because user needs, technology, and content change over time.
 
@@ -69,13 +72,13 @@ Information gathering is the initial phase where developers collect requirements
 
 This process involves:
 
-Client interviews and meetings
+- Client interviews and meetings
 
-Understanding business goals
+- Understanding business goals
 
-Analyzing competitor websites
+- Analyzing competitor websites
 
-Collecting functional requirements
+- Collecting functional requirements
 
 Understanding the target audience is important because it helps design a website that meets user needs, improves usability, and increases engagement.
 
@@ -102,21 +105,21 @@ The developer skipped the Planning and Design phases, which caused the problem.
 
 What went wrong:
 
-No sitemap or wireframe was created
+- No sitemap or wireframe was created
 
-Client expectations were unclear
+- Client expectations were unclear
 
-Layout was not approved before coding
+- Layout was not approved before coding
 
-Correct process:
+- Correct process:
 
-Gather requirements
+- Gather requirements
 
-Create sitemap and design prototype
+- Create sitemap and design prototype
 
-Get client approval
+- Get client approval
 
-Begin development
+- Begin development
 
 Following proper phases avoids rework and dissatisfaction.
 
@@ -126,14 +129,14 @@ The Maintenance phase was neglected.
 
 Activities involved in this phase include:
 
-Regularly updating content (exam schedules, notices)
+- Regularly updating content (exam schedules, notices)
 
-Fixing errors and broken links
+- Fixing errors and broken links
 
-Monitoring performance
+- Monitoring performance
 
-Improving security
+- Improving security
 
-Updating features as required
+- Updating features as required
 
-Neglecting maintenance causes outdated information and loss of users.
+-Neglecting maintenance causes outdated information and loss of users.
