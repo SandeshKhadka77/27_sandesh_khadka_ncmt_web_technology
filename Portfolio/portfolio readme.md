@@ -43,7 +43,7 @@ Through this portfolio project, I am practicing:
 
 ## 👤 Author
 **Sandesh Khadka**  
-Student | Learning Web Technology & Web Development
+Computer Science Student | Learning Web Development
 
 ---
 
