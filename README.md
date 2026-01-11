@@ -8,7 +8,7 @@ This repository contains all assignments completed for the Web Technology course
 | Assignment | Topic |
 |----------|------|
 | Assignment 01 |Internet & Web  |
-| Assignment 02 |  |
+| Assignment 02 | Website Development Process|
 | Assignment 03 | |
 | Assignment 04 |  |
 
@@ -27,7 +27,7 @@ This repository contains all assignments completed for the Web Technology course
 ## 🌐 Personal Portfolio
 
 You can view my personal portfolio project here:  
-🔗 **[Portfolio Repository](https://github.com/**proposed)**
+🔗 **[Portfolio Repository](https://github.com/SandeshKhadka77/Portfolio)
 
 
 ---
