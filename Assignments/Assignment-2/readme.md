@@ -1,10 +1,41 @@
 # CHAPTER 2: WEBSITE DEVELOPMENT PROCESS - 
 
+## 🟢 GROUP A: SHORT QUESTIONS (2 MARKS)
+
+### 1. Define the term “Sitemap” in the planning phase.
+A Sitemap is a comprehensive visual or textual representation of 
+a website's structure, detailing every page and its relationship 
+to others. During the planning phase, it serves as the primary 
+architectural blueprint that defines the hierarchy of content. 
+By mapping out the sitemap early, developers ensure logical 
+navigation and a smooth user flow, preventing the creation of 
+orphaned pages that are difficult for users or search engines 
+to find.
+
+### 2. What is the purpose of the “Launch” phase?
+The Launch phase is the critical stage where a website is moved 
+from a local or staging environment to a live, public web server. 
+The purpose is to make the site accessible to the global internet 
+audience. This involves configuring domain names (DNS), 
+setting up SSL certificates for data encryption, and performing 
+final environment checks to ensure the live server handles 
+the code exactly as the development server did.
+
+### 3. Why is “Documentation” important?
+Documentation is the formal record of a website's technical and 
+functional logic. It is vital because it ensures that the system 
+can be maintained and updated by different developers in the 
+future. Without clear documentation, troubleshooting bugs or 
+adding new features becomes a time-consuming and error-prone 
+process. It serves as the "instruction manual" for the site's 
+codebase, database structure, and third-party integrations.
+
 ---
 
+
+
 ## 🟡 GROUP B: LONG QUESTIONS (4 MARKS)
-> **Requirement:** 1.5 - 2 Pages Depth per response. 
-> **Format:** Introduction, Thematic Points, Detailed Analysis, Conclusion.
+
 
 ### 5. “Planning is the most critical phase of web development.” Discuss.
 
@@ -187,6 +218,7 @@ environment of the public internet.
 
 ---
 
+
 ### 9. Developer starts coding without design or sitemap.
 
 **I. The Problem: "Coding in the Dark"**
@@ -217,6 +249,7 @@ always results in a longer, more expensive, and more
 frustrating development process.
 
 ---
+
 
 ### 10. University website became outdated. Analysis.
 
