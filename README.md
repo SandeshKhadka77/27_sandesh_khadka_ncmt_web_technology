@@ -7,9 +7,9 @@ This repository contains all assignments completed for the Web Technology course
 
 | Assignment | Topic |
 |----------|------|
-| Assignment 01 |Internet & Web  |
-| Assignment 02 | Website Development Process|
-| Assignment 03 | |
+| Assignment 01 |INTERNET & WEB |
+| Assignment 02 | WEBSITE DEVELOPMENT PROCESS|
+| Assignment 03 | WEBSITE STRUCTURE DESIGN |
 | Assignment 04 |  |
 
 
