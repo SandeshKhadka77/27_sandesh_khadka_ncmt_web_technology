@@ -1,5 +1,10 @@
 # Portfolio Website 
 
+## 🔗 Portfolio Repository Link
+👉 **Main Portfolio Repository:**  
+[Click here to view my Portfolio Repository](https://github.com/SandeshKhadka77/Portfolio)
+
+---
 ## 📌 Overview
 This repository is created as a **secondary repository** to inform and link to my main **Portfolio Website project**.
 
@@ -24,12 +29,6 @@ This repository does **not** contain the full source code of the portfolio.
 
 ---
 
-## 🔗 Portfolio Repository Link
-👉 **Main Portfolio Repository:**  
-[Click here to view my Portfolio Repository](https://github.com/SandeshKhadka77/Portfolio)
-
-
----
 
 ## 📚 Learning Focus
 Through this portfolio project, I am practicing:
