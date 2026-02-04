@@ -3,7 +3,7 @@ This repository contains all assignments completed for the Web Technology course
 
 ---
 
-## 📂 Assignment Overview
+##  Assignment Overview
 
 | Assignment | Topic |
 |----------|------|
@@ -12,27 +12,17 @@ This repository contains all assignments completed for the Web Technology course
 | Assignment 03 | WEBSITE STRUCTURE DESIGN |
 | Assignment 04 | WEBSITE DESIGN PRINCIPLES  |
 
-
 ---
 
-## 🧑‍💻 Technologies Used
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- Responsive Design Principles  
-
----
-
-## 🌐 Personal Portfolio
+## Personal Portfolio
 
 You can view my personal portfolio project here:  
-🔗 **[Portfolio Repository](https://github.com/SandeshKhadka77/Portfolio)
+ **[Portfolio Repository](https://github.com/SandeshKhadka77/Portfolio)
 
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand the structure of modern web pages  
 - Apply styling using CSS  
@@ -42,7 +32,7 @@ You can view my personal portfolio project here:
 
 ---
 
-## 📌 Author
+## Author
 
 **Sandesh Khadka**  
 Computer Science Student  
@@ -50,7 +40,7 @@ Web Technology Coursework
 
 ---
 
-## 📜 License
+##  License
 
 This repository is created for **educational purposes only**.
 
